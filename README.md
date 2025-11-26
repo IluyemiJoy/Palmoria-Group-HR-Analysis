@@ -28,7 +28,12 @@ The data was obtained online from Kaggle
 
 ---
 
-<h1>3.	Methodology</h1>
+<h1>3. Business Questions </h1>
+Click on the link below to download the file
+
+---
+
+<h1>4.	Methodology</h1>
 
 <h2>•	Tools Used</h2>
 The dashboard was built using the following tools and technologies:
