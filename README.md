@@ -31,6 +31,8 @@ The data was obtained online from Kaggle
 <h1>3. Business Questions </h1>
 Click on the link below to download the file
 
+[Business Questions](https://github.com/IluyemiJoy/Palmoria-Group-HR-Analysis/raw/refs/heads/main/BUSINESS%20QUESTIONS.docx)
+
 ---
 
 <h1>4.	Methodology</h1>
