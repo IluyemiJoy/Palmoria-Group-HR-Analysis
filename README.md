@@ -75,7 +75,7 @@ v. Used **IF** function to	group the employees into groups based on manufacturin
 
 This interactive dashboard provides an indepth review on the gender-related issues within the organization and its regions
 
-<img width="1599" height="862" alt="Image" src="https://github.com/user-attachments/assets/3a3fac20-ea8a-4156-858d-65c468e399b6" />
+<img width="1599" height="862" alt="Image" src="DASHBOARD.png" />
 
 [Dashboard Preview](https://github.com/IluyemiJoy/Bank-Churn-Analysis-using-PowerBI/blob/main/Demographic%20Analysis%20Dashboard%20Demo.PNG)
 
