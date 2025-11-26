@@ -4,12 +4,12 @@ The project is focused on uncovering the presence of employee discrimination and
 
 ---
 
-<h2>1.	Project Overview</h2>
+<h1>1.	Project Overview</h1>
 
- <h3>•	Problem Statement</h3>
+ <h2>•	Problem Statement</h2>
  The recent negative media portrayal of The Palmoria Group as "the Manufacturing Patriarchy" has created a severe reputational crisis that directly endangers the company's strategic growth ambitions. This publicity exposes the organization to significant operational, legal, and brand risks by highlighting perceived systemic gender inequality. The immediate business problem is to objectively diagnose, quantify, and eradicate gender-based disparities across all people processes to safeguard the company's reputation, ensure long-term viability, and build an equitable workplace that facilitates scalable growth.
   
-  <h3>•	Objectives:</h3>
+  <h2>•	Objectives:</h2>
   
   The major objectives of the project is to:
 
@@ -22,29 +22,44 @@ The project is focused on uncovering the presence of employee discrimination and
 
 ---
 
-<h2>2.	Data Source</h2>
+<h1>2.	Data Source</h1>
 
 The data was obtained online from Kaggle
 
 ---
 
-<h2>3.	Methodology</h2>
+<h1>3.	Methodology</h1>
 
-<h3>•	Tools Used</h3>
-The dashboard was built using the following tools and technologies
+<h2>•	Tools Used</h2>
+The dashboard was built using the following tools and technologies:
 
--	**Microsoft Excel** – Main data analysis and visualization platform used for report creation
--	**Power Query** – Data transformation and cleaning layer for reshaping and preparing data
--	**Pivot Table** – Used for analysis
--	**File format** - .xlsx for development and .png for dashboards preview
+i.	**Microsoft Excel** – Main data analysis and visualization platform used.
 
-<h3>•	Key Data Cleaning Processes</h3>
+ii.	**Power Query** – Data transformation and cleaning layer for reshaping and preparing data.
+
+iii.	**Power Pivot** - Used to create Pivot tables
+
+iv **Pivot Table** – Used for analysis
+
+v.	**File format** - .xlsx for development and .png for dashboards preview
+
+<h2>•	Key Data Cleaning Processes</h2>
 
 i.	Assigned a generic gender status to these employees 
 
 ii.	Took out employees that are without a salary
 
-iii.	Lastly, some departments are indicated as “NULL”. These departments were taken out.
-  
-<h3>•	Key Functions Used </h3>
+iii.	Some departments are indicated as “NULL”. These departments were taken out.
 
+  
+<h2>•	Key Functions Used </h2>
+
+i. Used **IF** function to	group the employees pay into a group of $10,000 bands i.e. 10000- 20000, 20000-30000 etc.
+
+ii. Used **INDEX-MATCH-MATCH** to retrieve the bonus percentage by rating and percentage into the table using the bonus rules table
+
+iii.	Used the salary percentage and salary to calculate the bonus salary of each employee
+
+iv. Used salary and bonus salary to calculate the totaal salary of each employee
+
+v. Used **IF** function to	group the employees into groups based on manufacturing companies requirement of minimum of 90,000
