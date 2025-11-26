@@ -2,6 +2,8 @@
 The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues  bordering on gender inequality in its 3 regions.
 The project is focused on uncovering the presence of employee discrimination and inequality
 
+<img width="1599" height="862" alt="Image" src="DASHBOARD.png" />
+
 ---
 
 <h1>1.	Project Overview</h1>
@@ -26,7 +28,7 @@ The project is focused on uncovering the presence of employee discrimination and
 
 The data was obtained from hand to hand. Click on the link below to download the raw file
 
-[Raw file1](https://github.com/IluyemiJoy/Palmoria-Group-HR-Analysis/raw/refs/heads/main/Palmoria%20Group%20emp-data.xlsx) [Raw file2]
+[Raw file1](https://github.com/IluyemiJoy/Palmoria-Group-HR-Analysis/raw/refs/heads/main/Palmoria%20Group%20emp-data.xlsx) [Raw file2](https://github.com/IluyemiJoy/Palmoria-Group-HR-Analysis/raw/refs/heads/main/Palmoria%20Group%20Bonus%20Rules.xlsx)
 
 
 ---
