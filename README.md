@@ -24,7 +24,10 @@ The project is focused on uncovering the presence of employee discrimination and
 
 <h1>2.	Data Source</h1>
 
-The data was obtained online from Kaggle
+The data was obtained from hand to hand. Click on the link below to download the raw file
+
+[Raw file]
+
 
 ---
 
@@ -79,7 +82,9 @@ This interactive dashboard provides an indepth review on the gender-related issu
 
 <img width="1599" height="862" alt="Image" src="DASHBOARD.png" />
 
-[Dashboard Preview](https://github.com/IluyemiJoy/Bank-Churn-Analysis-using-PowerBI/blob/main/Demographic%20Analysis%20Dashboard%20Demo.PNG)
+Click on the link below to download the full analysis and dashboard file
+
+[Analysis and Dashboard](https://github.com/IluyemiJoy/Palmoria-Group-HR-Analysis/raw/refs/heads/main/Palmoria%20Group%20emp-data%20-%20dash.xlsx)
 
 This tab analyzes the “who” – the geographic and demographic composition of customers
   -	Customers from Germany exhibit a significantly higher churn rate compared to other countries.
