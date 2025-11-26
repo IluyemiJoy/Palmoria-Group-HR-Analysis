@@ -26,7 +26,7 @@ The project is focused on uncovering the presence of employee discrimination and
 
 The data was obtained from hand to hand. Click on the link below to download the raw file
 
-[Raw file]
+[Raw file1](https://github.com/IluyemiJoy/Palmoria-Group-HR-Analysis/raw/refs/heads/main/Palmoria%20Group%20emp-data.xlsx) [Raw file2]
 
 
 ---
