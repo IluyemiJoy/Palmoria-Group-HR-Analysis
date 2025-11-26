@@ -79,7 +79,7 @@ v. Used **IF** function to	group the employees into groups based on manufacturin
 ---
 
 <h1>4.	Key Insights and Findings</h1>
-
+ 
 This interactive dashboard provides an indepth review on the gender-related issues within the organization and its regions
 
 <img width="1599" height="862" alt="Image" src="DASHBOARD.png" />
@@ -88,9 +88,6 @@ Click on the link below to download the full analysis and dashboard file
 
 [Analysis and Dashboard](https://github.com/IluyemiJoy/Palmoria-Group-HR-Analysis/raw/refs/heads/main/Palmoria%20Group%20emp-data%20-%20dash.xlsx)
 
-This tab analyzes the “who” – the geographic and demographic composition of customers
-  -	Customers from Germany exhibit a significantly higher churn rate compared to other countries.
-  -	Males across all age groups were identified as having a disproportionately higher churn rate
-  -	Churning is significantly low across balances and almost equally distributed across all card types
-
+The findings of the analysis are as follows:
+- 
 
