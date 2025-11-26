@@ -68,3 +68,20 @@ iii.	Used the salary percentage and salary to calculate the bonus salary of each
 iv. Used salary and bonus salary to calculate the totaal salary of each employee
 
 v. Used **IF** function to	group the employees into groups based on manufacturing companies requirement of minimum of 90,000
+
+---
+
+<h1>4.	Key Insights and Findings</h1>
+
+This interactive dashboard provides an indepth review on the gender-related issues within the organization and its regions
+
+<img width="1599" height="862" alt="Image" src="https://github.com/user-attachments/assets/3a3fac20-ea8a-4156-858d-65c468e399b6" />
+
+[Dashboard Preview](https://github.com/IluyemiJoy/Bank-Churn-Analysis-using-PowerBI/blob/main/Demographic%20Analysis%20Dashboard%20Demo.PNG)
+
+This tab analyzes the “who” – the geographic and demographic composition of customers
+  -	Customers from Germany exhibit a significantly higher churn rate compared to other countries.
+  -	Males across all age groups were identified as having a disproportionately higher churn rate
+  -	Churning is significantly low across balances and almost equally distributed across all card types
+
+
