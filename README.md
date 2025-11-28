@@ -72,7 +72,7 @@ ii. Used **INDEX-MATCH-MATCH** to retrieve the bonus percentage by rating and pe
 
 iii.	Used the salary percentage and salary to calculate the bonus salary of each employee
 
-iv. Used salary and bonus salary to calculate the totaal salary of each employee
+iv. Used salary and bonus salary to calculate the total salary of each employee
 
 v. Used **IF** function to	group the employees into groups based on manufacturing companies requirement of minimum of 90,000
 
