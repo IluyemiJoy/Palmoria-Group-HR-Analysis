@@ -90,4 +90,5 @@ Click on the link below to download the full analysis and dashboard file
 
 The findings of the analysis are as follows:
 - 
-
+- There is a balance between the distribution of salary across all genders and regions
+- There is also an equa yardstick of measurement for the ratings of all employees across genders and regions
